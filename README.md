@@ -17,11 +17,8 @@
 
 ## About Me
 
-- Studying **Computing Science** at the University of British Columbia
-- Passionate about software engineering, volunteering, and building things that matter
-- Co-founded **[Happy Hackers Foundation](https://happyhackers.ca)** — hosted inclusive hackathons with 200+ participants and $10k+ in prizes
-- Won the **Technical Achievement Award** at the Canadian National CanSat Competition (2023)
-- Outside of code: hiking trails near Chiliwack Lake, reading sci-fi & self-improvement books, and listening to lo-fi & K-Pop
+- In my second year, studying **Computing Science** at the University of British Columbia
+- I enjoy reading and listening to music in my free time! [My Listening](https://www.roshanr.tech/music)
 
 ---
 
