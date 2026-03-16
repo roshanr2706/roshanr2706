@@ -45,11 +45,10 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **[VanConnect](https://github.com/roshanr2706)** | Student group-matching app with Gemini-powered AI for sustainable activity suggestions — built at Hack the Coast 2026 | Next.js, TypeScript, MongoDB, Gemini API |
-| **[PrairieLearn Tracker](https://github.com/roshanr2706)** | Chrome/Firefox extension for tracking assignments on PrairieLearn | JavaScript, HTML |
-| **[24 Puzzle Game](https://roshanr2706.github.io/24game)** | Multiplayer math puzzle game with intelligent puzzle generation | Python, HTML |
+| **[VanConnect](https://github.com/bg-06/VanConnect-HackTheCoastUBC)** | Student group-matching app with Gemini-powered AI for sustainable activity suggestions — built at Hack the Coast 2026 | Next.js, TypeScript, MongoDB, Gemini API |
+| **[PrairieLearn Tracker](https://github.com/roshanr2706/PrairieLearn-Assignment-Tracker)** | Chrome/Firefox extension for tracking assignments on PrairieLearn | JavaScript, HTML |
+| **[24 Puzzle Game](https://roshanr2706.github.io/24game/web/index.html)** | Multiplayer math puzzle game with intelligent puzzle generation | Python, HTML |
 | **[Personal Portfolio](https://roshanr.tech)** | My portfolio — built from scratch with interactive visuals and space-themed animations | Next.js, TypeScript, Tailwind, Framer Motion |
-| **[Happy Hackers Foundation](https://happyhackers.ca)** | Co-founded a non-profit hosting inclusive hackathons & workshops for 200+ participants | WordPress, HTML |
 | **CanSat Competition** | Embedded software for a satellite payload with real-time telemetry — won Technical Achievement Award | C/C++, Python |
 
 ---
